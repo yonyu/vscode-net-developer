@@ -35,7 +35,7 @@
 *	C# Extensions by JosKreative
 *	Auto-Using for C# by Fudge
 *	C# Namespace Autocompletion by Adrian Wilczynski
-*	Database Client by Weijan Chen – MySQL, PostgresSQL, SQLite, Redis and lastic Search
+*	Database Client by Weijan Chen – MySQL, PostgresSQL, SQLite, Redis and elastic Search
 *	GitHub Copilot by GitHub 
 
 ## Best practices for .NET development in Visual Studio Code
